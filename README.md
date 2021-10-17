@@ -1,6 +1,6 @@
 # WebApp
 
-#Deploying Webapplication using jenkins on Aws instance
+# Deploying Webapplication using jenkins on Aws instance
 #step1
 #create the repository 
 #and code the application with using normal HTML code 
