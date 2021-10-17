@@ -4,7 +4,8 @@
 #step1
 #create the repository 
 #and code the application with using normal HTML code 
-#build the image of index.html using dockerfile 
+#build the image of index.html using dockerfile
+#I use NGINX to deploy html site that i created in VM machine
  
 #step2
 #after building image make the tar file of that image and load into aws instance for deployment    
